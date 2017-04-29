@@ -1,0 +1,11 @@
+title: EU Data Conferences
+tag_text: EU Data Conferences
+description: Alice's list of upcoming data conferences
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+markdown: kramdown
+sass:
+  style: compressed
