@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alice's Awesome European Big Data Conferences</title>
+    <description>All of the European Big Data conferences that Alice is excited about</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/rss" rel="self" type="application/rss+xml"/>
+    {% assign sorted = (site.data.conferences | sort: 'uid') | reverse %}
+    {% for conference in sorted %}
+      <item>
+        <title>{{ conference.name }}</title>
+        <link>{{ conference.uri }}</link>
+        <guid>{{ conference.uid }}</guid>
+        <description>
+          <![CDATA[ <a href="{{ conference.uri }}">{{ conference.name }}</a> {% if conference.location %}({{ conference.location }}){% endif %} - {{ conference.rough_date }} ]]>
+        </description>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
