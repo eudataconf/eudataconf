@@ -11,5 +11,6 @@ CLASS:PUBLIC
 DTSTART:{{ conference.startdate | date: "%Y%m%d" }}T090000Z
 DTEND:{{ conference.enddate | date: "%Y%m%d" }}T170000Z
 DTSTAMP:{{ conference.startdate | date: "%Y%m%d" }}T090000Z
-END:VEVENT{% endfor %}
+END:VEVENT
+{% endfor %}
 END:VCALENDAR
