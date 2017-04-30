@@ -1,47 +1,61 @@
 - name: PyData London
   rough_date: May 5-7 2017
   uri: https://pydata.org/london2017/
+  uid: 1
 - name: J On The Beach
   location: Malaga
   rough_date: May 17-19 2017
   uri: http://jonthebeach.com/
+  uid: 2
 - name: Barcelona PyData
   rough_date: May 19-21 2017
   uri: https://pydata.org/barcelona2017/
+  uid: 3
 - name: Strata+Hadoop World
   location: London
   rough_date: May 22-25 2017
   uri: https://conferences.oreilly.com/strata/strata-eu/public/register
+  uid: 4
 - name: Big Data Analytics Europe
   rough_date: May 23 2017
   uri: http://www.whitehallmedia.co.uk/bdaeurope/
+  uid: 5
 - name: Berlin Buzzwords
   rough_date: June 11-13 2017
   uri: https://berlinbuzzwords.de/17/about
+  uid: 6
 - name: PyParis
   rough_date: June 12-13 2017
   uri: http://pyparis.org
+  uid: 7
 - name: Data Analytics
   rough_date: 28 June 2017
   uri: http://conferences.unicom.co.uk/data-analytics-2017/
+  uid: 8
 - name: PyData Berlin
   rough_date: 30 June - 02 July 2017
   uri: https://pydata.org/berlin2017/
+  uid: 9
 - name: Data Natives
   location: Tel Aviv
   rough_date: Summer 2017
   uri: http://telaviv.datanatives.io/
+  uid: 10
 - name: Scala World
   location: Lake District
   rough_date: 16-20 September 2017
   uri: https://scala.world
+  uid: 11
 - name: PyData Warsaw
   rough_date: 19-20 October 2017
   uri: https://pydata.org/warsaw2017/
+  uid: 12
 - name: Data Natives
   location: Berlin
   rough_date: November 2017
   uri: http://datanatives.io/
+  uid: 13
 - name: Big Data LDN
   rough_date: 15-16 November 2017
   uri: https://pydata.org/warsaw2017/
+  uid: 14
