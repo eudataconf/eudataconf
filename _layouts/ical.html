@@ -2,7 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:{{ site.url }}
 METHOD:PUBLISH
-{% for conference in site.data.conferences %}BEGIN:VEVENT
+{% for conference in site.data.conferences %}
+{% if conference.startdate %}
+BEGIN:VEVENT
 UID:{{conference.uid}}@wheresalice.github.io
 ORGANIZER:CN="Collated By":MAILTO:wheresalice@noreply.github.com
 LOCATION:{{ conference.location }}
@@ -12,5 +14,6 @@ DTSTART:{{ conference.startdate | date: "%Y%m%d" }}T090000Z
 DTEND:{{ conference.enddate | date: "%Y%m%d" }}T170000Z
 DTSTAMP:{{ conference.startdate | date: "%Y%m%d" }}T090000Z
 END:VEVENT
+{% endif %}
 {% endfor %}
 END:VCALENDAR
