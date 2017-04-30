@@ -2,40 +2,58 @@
   rough_date: May 5-7 2017
   uri: https://pydata.org/london2017/
   uid: 1
+  startdate: 2017-05-05
+  enddate: 2017-05-07
 - name: J On The Beach
   location: Malaga
   rough_date: May 17-19 2017
   uri: http://jonthebeach.com/
   uid: 2
+  startdate: 2017-05-17
+  enddate: 2017-05-19
 - name: Barcelona PyData
   rough_date: May 19-21 2017
   uri: https://pydata.org/barcelona2017/
   uid: 3
+  startdate: 2017-05-19
+  enddate: 2017-05-21
 - name: Strata+Hadoop World
   location: London
   rough_date: May 22-25 2017
   uri: https://conferences.oreilly.com/strata/strata-eu/public/register
   uid: 4
+  startdate: 2017-05-22
+  enddate: 2017-05-25
 - name: Big Data Analytics Europe
   rough_date: May 23 2017
   uri: http://www.whitehallmedia.co.uk/bdaeurope/
   uid: 5
+  startdate: 2017-05-23
+  enddate: 2017-05-23
 - name: Berlin Buzzwords
   rough_date: June 11-13 2017
   uri: https://berlinbuzzwords.de/17/about
   uid: 6
+  startdate: 2017-06-11
+  enddate: 2017-06-13
 - name: PyParis
   rough_date: June 12-13 2017
   uri: http://pyparis.org
   uid: 7
+  startdate: 2017-06-12
+  enddate: 2017-06-13
 - name: Data Analytics
   rough_date: 28 June 2017
   uri: http://conferences.unicom.co.uk/data-analytics-2017/
   uid: 8
+  startdate: 2017-06-28
+  enddate: 2017-06-28
 - name: PyData Berlin
   rough_date: 30 June - 02 July 2017
   uri: https://pydata.org/berlin2017/
   uid: 9
+  startdate: 2017-06-30
+  enddate: 2017-07-02
 - name: Data Natives
   location: Tel Aviv
   rough_date: Summer 2017
@@ -46,10 +64,14 @@
   rough_date: 16-20 September 2017
   uri: https://scala.world
   uid: 11
+  startdate: 2017-09-16
+  enddate: 2017-09-20
 - name: PyData Warsaw
   rough_date: 19-20 October 2017
   uri: https://pydata.org/warsaw2017/
   uid: 12
+  startdate: 2017-10-19
+  enddate: 2017-10-20
 - name: Data Natives
   location: Berlin
   rough_date: November 2017
@@ -59,3 +81,5 @@
   rough_date: 15-16 November 2017
   uri: https://pydata.org/warsaw2017/
   uid: 14
+  startdate: 2017-11-15
+  enddate: 2017-11-16
