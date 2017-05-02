@@ -16,7 +16,12 @@
     {{ content }}
     <ul>
       {% for conference in site.data.conferences %}
-      <li><a href="{{ conference.uri }}">{{ conference.name }}</a> {% if conference.location %}({{ conference.location }}){% endif %} - {{ conference.rough_date }}</li>
+      <li class="h-event vevent">
+        <a href="{{ conference.uri }}" class="u-url"><span class="p-name">{{ conference.name }}</span></a>
+        {% if conference.location %}(<span class="p-location">{{ conference.location }}</span>){% endif %}
+        - {% if conference.startdate %} <time class="dt-start" datetime="{{ conference.startdate }}">{{ conference.startdate | date_to_string }}</time> to <time class="dt-end" datetime="{{ conference.enddate }}">{{ conference.enddate | date_to_string }}</time>
+        {% else %}{{ conference.roughdate }}{% endif %}
+      </li>
       {% endfor %}
     </ul>
   </div>

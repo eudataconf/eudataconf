@@ -11,7 +11,7 @@
         <link>{{ conference.uri }}</link>
         <guid>{{ conference.uri }}?utm_source=EU%20Data%20Conferences&amp;utm_medium=rss&amp;utm_campaign={{ conference.uid }}</guid>
         <description>
-          <![CDATA[ <a href="{{ conference.uri }}">{{ conference.name }}</a> {% if conference.location %}({{ conference.location }}){% endif %} - {{ conference.rough_date }} ]]>
+          <![CDATA[ <a href="{{ conference.uri }}">{{ conference.name }}</a> {% if conference.location %}({{ conference.location }}){% endif %} - {{ conference.roughdate }} ]]>
         </description>
       </item>
     {% endfor %}
