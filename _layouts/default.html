@@ -16,10 +16,11 @@
     {{ content }}
     <ul>
       {% for conference in site.data.conferences %}
-      <li class="h-event vevent">
-        <a href="{{ conference.uri }}" class="u-url"><span class="p-name">{{ conference.name }}</span></a>
-        {% if conference.location %}(<span class="p-location">{{ conference.location }}</span>){% endif %}
-        - {% if conference.startdate %} <time class="dt-start" datetime="{{ conference.startdate }}">{{ conference.startdate | date_to_string }}</time> to <time class="dt-end" datetime="{{ conference.enddate }}">{{ conference.enddate | date_to_string }}</time>
+      <li class="h-event vevent" itemscope itemtype="http://schema.org/Event">
+        <a href="{{ conference.uri }}" class="u-url" itemprop="url"><span class="p-name" itemprop="name">{{ conference.name }}</span></a>
+        {% if conference.location %}(<span class="p-location" itemprop="location">{{ conference.location }}</span>){% endif %}
+        - {% if conference.startdate %} <time class="dt-start" datetime="{{ conference.startdate }}" itemprop="startDate">{{ conference.startdate | date_to_string }}</time>
+        to <time class="dt-end" datetime="{{ conference.enddate }}" itemprop="endDate">{{ conference.enddate | date_to_string }}</time>
         {% else %}{{ conference.roughdate }}{% endif %}
       </li>
       {% endfor %}
