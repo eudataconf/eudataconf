@@ -42,6 +42,12 @@
   uid: 7
   startdate: 2017-06-12
   enddate: 2017-06-13
+- name: Elasticon
+  roughdate: 22 June 2017
+  uri: https://www.elastic.co/elasticon/tour/2017/london
+  uid: 15
+  startdate: 2017-06-22
+  enddate: 2017-06-22  
 - name: Data Analytics
   roughdate: 28 June 2017
   uri: http://conferences.unicom.co.uk/data-analytics-2017/
