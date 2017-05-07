@@ -1,9 +1,3 @@
-- name: PyData London
-  roughdate: May 5-7 2017
-  uri: https://pydata.org/london2017/
-  uid: 1
-  startdate: 2017-05-05
-  enddate: 2017-05-07
 - name: J On The Beach
   location: Malaga
   roughdate: May 17-19 2017
