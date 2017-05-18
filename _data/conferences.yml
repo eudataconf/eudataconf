@@ -59,6 +59,13 @@
   roughdate: Summer 2017
   uri: http://telaviv.datanatives.io/
   uid: 10
+- name: Flink Forward
+  location: Berlin
+  roughdate: 11-13 September 2017
+  uri: http://berlin.flink-forward.org
+  uid: 16
+  startdate: 2017-09-11
+  enddate: 2017-09-13
 - name: Scala World
   location: Lake District
   roughdate: 16-20 September 2017
