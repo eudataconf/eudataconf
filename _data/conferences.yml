@@ -70,3 +70,10 @@
   uid: 14
   startdate: 2017-11-15
   enddate: 2017-11-16
+- name: Big Data Spain
+  roughdate: 15-17 November 2017
+  uri: https://www.bigdataspain.org/
+  uid: 18
+  startdate: 2017-11-15
+  enddate: 2017-11-17
+  location: Madrid
