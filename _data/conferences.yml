@@ -77,3 +77,10 @@
   startdate: 2017-11-15
   enddate: 2017-11-17
   location: Madrid
+- name: Open Knowledge Festival
+  roughdate: 3-6 May 2018
+  uri: http://2018.okfestival.org/
+  uid: 19
+  startdate: 2018-05-03
+  enddate: 2017-05-06
+  location: Thessaloniki, Greece
