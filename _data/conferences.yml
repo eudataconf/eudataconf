@@ -22,6 +22,13 @@
   uid: 15
   startdate: 2017-06-22
   enddate: 2017-06-22  
+- name: Big Data Analytics 
+  roughdate: 22 June 2017
+  uri: http://www.whitehallmedia.co.uk/bda/
+  uid: 20
+  startdate: 2017-06-22
+  enddate: 2017-06-22
+  location: London
 - name: Data Analytics
   roughdate: 28 June 2017
   uri: http://conferences.unicom.co.uk/data-analytics-2017/
