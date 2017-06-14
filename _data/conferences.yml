@@ -1,15 +1,3 @@
-- name: Berlin Buzzwords
-  roughdate: June 11-13 2017
-  uri: https://berlinbuzzwords.de/17/about
-  uid: 6
-  startdate: 2017-06-11
-  enddate: 2017-06-13
-- name: PyParis
-  roughdate: June 12-13 2017
-  uri: http://pyparis.org
-  uid: 7
-  startdate: 2017-06-12
-  enddate: 2017-06-13
 - name: CogX London 2017
   roughdate: June 20-21 2017
   uri: https://cogx.co/
