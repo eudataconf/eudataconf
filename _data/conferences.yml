@@ -1,15 +1,3 @@
-- name: Data Analytics
-  roughdate: 28 June 2017
-  uri: http://conferences.unicom.co.uk/data-analytics-2017/
-  uid: 8
-  startdate: 2017-06-28
-  enddate: 2017-06-28
-- name: PyData Berlin
-  roughdate: 30 June - 02 July 2017
-  uri: https://pydata.org/berlin2017/
-  uid: 9
-  startdate: 2017-06-30
-  enddate: 2017-07-02
 - name: Data Natives
   location: Tel Aviv
   roughdate: Summer 2017
