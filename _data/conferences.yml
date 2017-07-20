@@ -31,7 +31,7 @@
   uri: http://datanatives.io/
   uid: 13
   startdate: 2017-11-16
-  eenddate: 2017-11-17
+  enddate: 2017-11-17
 - name: Big Data LDN
   roughdate: 15-16 November 2017
   uri: https://pydata.org/warsaw2017/
