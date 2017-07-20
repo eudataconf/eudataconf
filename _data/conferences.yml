@@ -27,9 +27,11 @@
   enddate: 2017-10-24
 - name: Data Natives
   location: Berlin
-  roughdate: November 2017
+  roughdate: 16-17 November 2017
   uri: http://datanatives.io/
   uid: 13
+  startdate: 2017-11-16
+  eenddate: 2017-11-17
 - name: Big Data LDN
   roughdate: 15-16 November 2017
   uri: https://pydata.org/warsaw2017/
