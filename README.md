@@ -1,6 +1,6 @@
 # Awesome EU Data Conferences
 
-[View the list](https://wheresalice.github.io/eudataconf)
+[View the list](https://eudataconferences.wheresalice.info)
 
 ## Contributions
 
@@ -8,5 +8,4 @@ Alice is very picky about what makes this list.  Feel free to raise an issue and
 
 ## TODO
 
-- Publish iCal and RSS versions of the list
 - Create a Twitter account to post these from
