@@ -45,6 +45,13 @@
   startdate: 2017-11-15
   enddate: 2017-11-17
   location: Madrid
+- name: Big Data Conference
+  roughdate: 29-30 November 2017
+  uri: http://www.bigdataconference.lt/
+  uid: 20
+  startdate: 2017-11-29
+  enddate: 2017-11-30
+  location: Vilnius, Lithuania
 - name: Open Knowledge Festival
   roughdate: 3-6 May 2018
   uri: http://2018.okfestival.org/
