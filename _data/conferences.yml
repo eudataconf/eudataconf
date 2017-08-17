@@ -25,6 +25,13 @@
   uid: 21
   startdate: 2017-10-23
   enddate: 2017-10-24
+- name: Spark Summit EU
+  location: Dublin
+  roughdate: 24-26 October 2017
+  uri: https://spark-summit.org/eu-2017/
+  uid: 22
+  startdate: 2017-10-24
+  enddate: 2017-10-26
 - name: Data Natives
   location: Berlin
   roughdate: 16-17 November 2017
