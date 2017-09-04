@@ -59,6 +59,13 @@
   startdate: 2017-11-29
   enddate: 2017-11-30
   location: Vilnius, Lithuania
+- name: Data Innovation Summit
+  roughdate: 22 March 2018
+  uid: 23
+  uri: http://www.datainnovationsummit.com/
+  startdate: 2018-03-22
+  enddate: 2018-03-22
+  location: Stockholm
 - name: Open Knowledge Festival
   roughdate: 3-6 May 2018
   uri: http://2018.okfestival.org/
