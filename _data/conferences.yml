@@ -59,6 +59,12 @@
   startdate: 2017-11-29
   enddate: 2017-11-30
   location: Vilnius, Lithuania
+- name: Big Data Tech Warsaw
+  roughdate: 22 February 2018
+  uid: 24
+  uri: http://bigdatatechwarsaw.eu/
+  startdate: 2018-02-22
+  enddate: 2018-02-22
 - name: Data Innovation Summit
   roughdate: 22 March 2018
   uid: 23
