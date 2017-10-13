@@ -65,3 +65,10 @@
   startdate: 2018-05-03
   enddate: 2017-05-06
   location: Thessaloniki, Greece
+- name: Berlin Buzzwords
+  roughdate: 10-12 June 2018
+  uid: 25
+  uri: https://berlinbuzzwords.de
+  startdate: 2018-06-10
+  enddate: 2017-06-12
+  location: Berlin
