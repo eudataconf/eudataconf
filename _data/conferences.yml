@@ -58,6 +58,12 @@
   startdate: 2018-03-22
   enddate: 2018-03-22
   location: Stockholm
+- name: Kafka Summit
+  roughdate: 23-24 April 2018
+  uri: https://kafka-summit.org/
+  location: London
+  startdate: 2018-04-23
+  enddate: 2018-04-24
 - name: Open Knowledge Festival
   roughdate: 3-6 May 2018
   uri: http://2018.okfestival.org/
