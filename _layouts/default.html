@@ -26,7 +26,7 @@ if (window.location.href.indexOf('https://wheresalice.github.io') === 0) {
         {% if conference.location %}(<span class="p-location" itemprop="location">{{ conference.location }}</span>){% endif %}
         - {% if conference.startdate %} <time class="dt-start" datetime="{{ conference.startdate }}" itemprop="startDate">{{ conference.startdate | date_to_string }}</time>
         to <time class="dt-end" datetime="{{ conference.enddate }}" itemprop="endDate">{{ conference.enddate | date_to_string }}</time>
-        {% else %}{{ conference.roughdate }}{% endif %}
+        {% else %}{{ conference.roughdate }}{% endif %}{% if conference.mincost %}<span itemprop="offers" itemscope itemtype="http://schema.org/AggregateOffer"> - Cost <span itemprop="lowPrice">{{ conference.mincost }}</span> - <span itemprop="highPrice">{{ conference.maxcost }}</span></span>{% endif %}
       </li>
       {% endfor %}
     </ul>

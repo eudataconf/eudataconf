@@ -4,6 +4,8 @@
   uid: 12
   startdate: 2017-10-19
   enddate: 2017-10-20
+  mincost: €30
+  maxcost: €193
 - name: Data Modeling Zone
   location: Dusseldorf, Germany
   roughdate: 23-24 October 2017
@@ -11,6 +13,8 @@
   uid: 21
   startdate: 2017-10-23
   enddate: 2017-10-24
+  mincost: €80
+  maxcost: €950
 - name: Spark Summit EU
   location: Dublin
   roughdate: 24-26 October 2017
@@ -18,6 +22,8 @@
   uid: 22
   startdate: 2017-10-24
   enddate: 2017-10-26
+  mincost: €350
+  maxcost: €1,395
 - name: Data Natives
   location: Berlin
   roughdate: 16-17 November 2017
@@ -25,12 +31,16 @@
   uid: 13
   startdate: 2017-11-16
   enddate: 2017-11-17
+  mincost: €100
+  maxcost: €650
 - name: Big Data LDN
   roughdate: 15-16 November 2017
-  uri: https://pydata.org/warsaw2017/
+  uri: https://bigdataldn.com/
   uid: 14
   startdate: 2017-11-15
   enddate: 2017-11-16
+  mincost: €0
+  maxcost: €0
 - name: Big Data Spain
   roughdate: 15-17 November 2017
   uri: https://www.bigdataspain.org/
@@ -38,6 +48,8 @@
   startdate: 2017-11-15
   enddate: 2017-11-17
   location: Madrid
+  mincost: €198
+  maxcost: €450
 - name: Big Data Conference
   roughdate: 29-30 November 2017
   uri: http://www.bigdataconference.lt/
@@ -45,12 +57,16 @@
   startdate: 2017-11-29
   enddate: 2017-11-30
   location: Vilnius, Lithuania
+  mincost: €119
+  maxcost: €229
 - name: Big Data Tech Warsaw
   roughdate: 22 February 2018
   uid: 24
   uri: http://bigdatatechwarsaw.eu/
   startdate: 2018-02-22
   enddate: 2018-02-22
+  mincost: €344
+  maxcost: €664
 - name: Data Innovation Summit
   roughdate: 22 March 2018
   uid: 23
@@ -58,6 +74,8 @@
   startdate: 2018-03-22
   enddate: 2018-03-22
   location: Stockholm
+  mincost: €248
+  maxcost: €415
 - name: Kafka Summit
   roughdate: 23-24 April 2018
   uri: https://kafka-summit.org/
