@@ -1,6 +1,6 @@
 title: EU Data Conferences
 tag_text: EU Data Conferences
-description: Alice's list of upcoming data conferences
+description: A list of upcoming data conferences in Europe. Missing one? Submit it!
 exclude:
   - Gemfile
   - Gemfile.lock
