@@ -81,6 +81,13 @@
   startdate: 2018-05-03
   enddate: 2017-05-06
   location: Thessaloniki, Greece
+- name: Strata Data Conference
+  roughdate: 21-24 May 2018
+  uri: https://conferences.oreilly.com/strata/strata-eu
+  uid: 26
+  startdate: 2018-05-21
+  enddate: 2018-05-24
+  location: London  
 - name: Berlin Buzzwords
   roughdate: 10-12 June 2018
   uid: 25
