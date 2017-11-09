@@ -68,6 +68,13 @@
   location: Stockholm
   mincost: €248
   maxcost: €415
+- name: DataWorks Summit
+  roughdate: 16-19 April 2018
+  uri: https://dataworkssummit.com/berlin-2018/
+  location: Berlin
+  startdate: 2018-04-16
+  enddate: 2018-04-19
+  uid: 27
 - name: Kafka Summit
   roughdate: 23-24 April 2018
   uri: https://kafka-summit.org/
