@@ -6,6 +6,13 @@
   enddate: 2018-02-22
   mincost: €344
   maxcost: €664
+- name: World Information Architecture Day
+  roughdate: 24 February 2018
+  uid: 28
+  uri: https://2018.worldiaday.org/
+  startdate: 2018-02-24
+  enddate: 2018-02-24
+  location: Various
 - name: Data Innovation Summit
   roughdate: 22 March 2018
   uid: 23
