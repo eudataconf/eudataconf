@@ -13,6 +13,15 @@
   startdate: 2018-02-24
   enddate: 2018-02-24
   location: Various
+- name: Big Data Paris
+  roughdate: 12-13 March 2018
+  uid: 30
+  uri: https://www.bigdataparis.com/
+  startdate: 2018-03-12
+  enddate: 2018-03-13
+  location: Paris
+  mincost: €0
+  maxcost: €790
 - name: Data Innovation Summit
   roughdate: 22 March 2018
   uid: 23
