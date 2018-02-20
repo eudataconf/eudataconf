@@ -57,7 +57,14 @@
   uid: 26
   startdate: 2018-05-21
   enddate: 2018-05-24
-  location: London  
+  location: London
+- name: dotScale & dotAI
+  roughdate: 31 May - 1 June 2018
+  uri: https://www.dotscale.io/
+  startdate: 2018-05-31
+  enddate: 2018-06-01
+  location: Paris
+  uid: 31
 - name: Berlin Buzzwords
   roughdate: 10-12 June 2018
   uid: 25
