@@ -22,6 +22,15 @@
   location: Paris
   mincost: €0
   maxcost: €790
+- name: Gartner Data & Analytics Summit
+  roughdate: 19-21 March 2018
+  uid: 32
+  uri: https://www.gartner.com/events/emea/data-analytics
+  startdate: 2018-03-19
+  enddate: 2018-03-21
+  location: London
+  mincost: €2475 + VAT
+  maxcost: €3200 + VAT
 - name: Data Innovation Summit
   roughdate: 22 March 2018
   uid: 23
