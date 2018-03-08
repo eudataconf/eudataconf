@@ -1,18 +1,12 @@
-- name: Big Data Tech Warsaw
-  roughdate: 22 February 2018
-  uid: 24
-  uri: http://bigdatatechwarsaw.eu/
-  startdate: 2018-02-22
-  enddate: 2018-02-22
-  mincost: €344
-  maxcost: €664
-- name: World Information Architecture Day
-  roughdate: 24 February 2018
-  uid: 28
-  uri: https://2018.worldiaday.org/
-  startdate: 2018-02-24
-  enddate: 2018-02-24
-  location: Various
+- name: Big Data World
+  roughdate: 21-22 March 2018
+  uid: 29
+  uri: https://www.bigdataworld.com/
+  startdate: 2018-03-21
+  enddate: 2018-03-22
+  location: London
+  mincost: 0
+  maxcost: 0
 - name: Data Innovation Summit
   roughdate: 22 March 2018
   uid: 23
