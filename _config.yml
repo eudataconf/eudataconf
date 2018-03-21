@@ -9,3 +9,5 @@ exclude:
 markdown: kramdown
 sass:
   style: compressed
+include:
+  - _headers

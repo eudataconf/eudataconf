@@ -1,0 +1,3 @@
+/*
+  X-Frame-Options: DENY
+  Content-Security-Policy-Report-Only: default-src 'none'; style-src 'self'; report-uri https://leedstrains.report-uri.com/r/d/csp/reportOnly
