@@ -1,21 +1,3 @@
-- name: Big Data World
-  roughdate: 21-22 March 2018
-  uid: 29
-  uri: https://www.bigdataworld.com/
-  startdate: 2018-03-21
-  enddate: 2018-03-22
-  location: London
-  mincost: 0
-  maxcost: 0
-- name: Data Innovation Summit
-  roughdate: 22 March 2018
-  uid: 23
-  uri: http://www.datainnovationsummit.com/
-  startdate: 2018-03-22
-  enddate: 2018-03-22
-  location: Stockholm
-  mincost: €248
-  maxcost: €415
 - name: DataWorks Summit
   roughdate: 16-19 April 2018
   uri: https://dataworkssummit.com/berlin-2018/
