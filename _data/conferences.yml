@@ -1,10 +1,3 @@
-- name: Open Knowledge Festival
-  roughdate: 3-6 May 2018
-  uri: http://2018.okfestival.org/
-  uid: 19
-  startdate: 2018-05-03
-  enddate: 2017-05-06
-  location: Thessaloniki, Greece
 - name: Strata Data Conference
   roughdate: 21-24 May 2018
   uri: https://conferences.oreilly.com/strata/strata-eu
