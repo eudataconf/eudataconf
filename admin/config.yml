@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: live
+media_folder: "images"
 collections:
  - name: "conference"
    label: "Conference"
