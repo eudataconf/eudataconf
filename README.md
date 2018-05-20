@@ -36,7 +36,7 @@ Either revert the git commit and push it to `live` or fix forward.  Netlify will
 ### Alerts
 
 * Build failure - If the `_data/conferences.yml` file is not well formed then the site will fail to build.  This should generate an email alert, which should give an idea as to what is wrong.
-* CertSpotter - Cert Spotter is configured to watch for new SSL certificates being g
+* CertSpotter - Cert Spotter is configured to watch for new SSL certificates being generated.  Normally nothing needs to be done because it is an automatic renewal.
 
 ### Ownership / Contacts
 
