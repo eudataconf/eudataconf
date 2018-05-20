@@ -1,0 +1,9 @@
+{% assign maxuid = 0 %}
+{% for conference in site.data.conferences.conferences %}
+  {% if conference.uid > maxuid %}
+    {% assign maxuid = conference.uid %}
+  {% endif %}
+{% endfor %}
+
+<h1>{{ maxuid }}</h1>
+<p>This is the highest known UID, increment it for the next event you add.</p>
