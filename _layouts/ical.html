@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:{{ site.url }}
 METHOD:PUBLISH
-{% for conference in site.data.conferences %}
+{% for conference in site.data.conferences.conferences %}
 {% if conference.startdate %}
 BEGIN:VEVENT
 UID:{{conference.uid}}@wheresalice.github.io

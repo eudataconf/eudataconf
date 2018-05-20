@@ -12,6 +12,7 @@ collections:
        fields:
          - label: "Conferences"
            widget: list
+           name: conferences
            fields:
              - {label: Name, name: name, widget: string}
              - {label: "Rough Date", name: roughdate, widget: string}

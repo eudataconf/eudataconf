@@ -4,7 +4,7 @@
     <title>Alice's Awesome European Big Data Conferences</title>
     <description>All of the European Big Data conferences that Alice is excited about</description>
     <link>{{ site.url }}</link>
-    {% assign sorted = (site.data.conferences | sort: 'uid') | reverse %}
+    {% assign sorted = (site.data.conferences.conferences | sort: 'uid') | reverse %}
     {% for conference in sorted %}
       <item>
         <title>{{ conference.name }}</title>

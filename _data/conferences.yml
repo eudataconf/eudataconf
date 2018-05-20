@@ -1,35 +1,36 @@
-- name: Strata Data Conference
-  roughdate: 21-24 May 2018
-  uri: https://conferences.oreilly.com/strata/strata-eu
-  uid: 26
-  startdate: 2018-05-21
-  enddate: 2018-05-24
-  location: London  
-- name: J On The Beach
-  roughdate: 23-25 May 2018
-  uid: 28
-  uri: https://jonthebeach.com/
-  startdate: 2018-05-23
-  enddate: 2018-05-25
-  location: Malaga
-- name: Berlin Buzzwords
-  roughdate: 10-12 June 2018
-  uid: 25
-  uri: https://berlinbuzzwords.de
-  startdate: 2018-06-10
-  enddate: 2017-06-12
-  location: Berlin
-- name: Spark+AI Summit Europe
-  roughdate: 2-4 October 2018
-  uid: 29
-  uri: https://databricks.com/sparkaisummit/eu
-  startdate: 2018-10-02
-  enddate: 2018-10-04
-  location: London
-- name: Big Data Spain
-  roughdate: 13-15 November 2018
-  uid: 27
-  uri: https://www.bigdataspain.org/
-  startdate: 2018-11-13
-  enddate: 2018-11-15
-  location: Madrid
+conferences:
+  - name: Strata Data Conference
+    roughdate: 21-24 May 2018
+    uri: https://conferences.oreilly.com/strata/strata-eu
+    uid: 26
+    startdate: 2018-05-21
+    enddate: 2018-05-24
+    location: London  
+  - name: J On The Beach
+    roughdate: 23-25 May 2018
+    uid: 28
+    uri: https://jonthebeach.com/
+    startdate: 2018-05-23
+    enddate: 2018-05-25
+    location: Malaga
+  - name: Berlin Buzzwords
+    roughdate: 10-12 June 2018
+    uid: 25
+    uri: https://berlinbuzzwords.de
+    startdate: 2018-06-10
+    enddate: 2017-06-12
+    location: Berlin
+  - name: Spark+AI Summit Europe
+    roughdate: 2-4 October 2018
+    uid: 29
+    uri: https://databricks.com/sparkaisummit/eu
+    startdate: 2018-10-02
+    enddate: 2018-10-04
+    location: London
+  - name: Big Data Spain
+    roughdate: 13-15 November 2018
+    uid: 27
+    uri: https://www.bigdataspain.org/
+    startdate: 2018-11-13
+    enddate: 2018-11-15
+    location: Madrid

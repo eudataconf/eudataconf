@@ -16,7 +16,7 @@
     <h1><a href="./">{{ site.tag_text }}</a></h1>
     {{ content }}
     <ul>
-      {% for conference in site.data.conferences %}
+      {% for conference in site.data.conferences.conferences %}
       <li class="h-event vevent" itemscope itemtype="http://schema.org/Event">
         <a href="{{ conference.uri }}" class="u-url" itemprop="url"><span class="p-name" itemprop="name">{{ conference.name }}</span></a>
         {% if conference.location %}(<span class="p-location" itemprop="location">{{ conference.location }}</span>){% endif %}
