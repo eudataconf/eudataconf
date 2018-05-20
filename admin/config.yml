@@ -1,0 +1,8 @@
+backend:
+  name: git-gateway
+  branch: live
+collections:
+ - name: "conference"
+   label: "Conference"
+   folder: "_data"
+   create: false

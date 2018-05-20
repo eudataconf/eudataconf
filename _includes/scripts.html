@@ -1,1 +1,13 @@
 <p>[ <a href="rss.xml">RSS</a> | <a href="ical.ics">iCal</a> | <a href="https://eudatatech.tumblr.com/">Data News</a> ]</p>
+
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                });
+            }
+        });
+    }
+</script>
