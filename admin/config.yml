@@ -3,7 +3,21 @@ backend:
   branch: live
 media_folder: "images"
 collections:
- - name: "conference"
-   label: "Conference"
-   folder: "_data"
-   create: false
+ - name: "page"
+   label: "Page"
+   files:
+     - label: "Conferences Page"
+       name: "conference"
+       file: "_data/conferences.yml"
+       fields:
+         - label: "Conferences"
+           widget: list
+           fields:
+             - {label: Name, name: name, widget: string}
+             - {label: "Rough Date", name: roughdate, widget: string}
+             - {label: URL, name: uri, widget: string}
+             - {label: uid, name: uid, widget: number}
+             - {label: "Start Date", name: startdate, widget: date, required: false}
+             - {label: "End Date", name: enddate, widget: date, required: false}
+             - {label: Location, name: location, widget: string, required: false}
+
