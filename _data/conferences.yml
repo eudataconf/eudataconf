@@ -1,4 +1,18 @@
 conferences:
+  - enddate: '2018-09-05'
+    location: Berlin
+    name: Flink Forward
+    roughdate: 3-5 September 2018
+    startdate: '2018-09-03'
+    uid: '30'
+    uri: 'https://berlin.flink-forward.org/'
+  - enddate: '2018-09-07'
+    location: Dublin
+    name: DataSci Awards
+    roughdate: 7 September 2018
+    startdate: '2018-09-07'
+    uid: '20'
+    uri: 'https://www.datsciawards.ie/'
   - enddate: 2018-10-04T00:00:00.000Z
     location: London
     name: Spark+AI Summit Europe
@@ -6,6 +20,20 @@ conferences:
     startdate: 2018-10-02T00:00:00.000Z
     uid: 29
     uri: 'https://databricks.com/sparkaisummit/eu'
+  - enddate: '2018-10-11'
+    location: London
+    name: AI Conference
+    roughdate: 8-11 October 2018
+    startdate: '2018-10-08'
+    uid: '33'
+    uri: 'https://conferences.oreilly.com/artificial-intelligence/ai-eu'
+  - enddate: '2018-11-14'
+    location: London
+    name: Big Data LDN
+    roughdate: 13-14 November 2018
+    startdate: '2018-11-13'
+    uid: '31'
+    uri: 'https://bigdataldn.com/'
   - enddate: 2018-11-15T00:00:00.000Z
     location: Madrid
     name: Big Data Spain
