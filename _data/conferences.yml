@@ -41,3 +41,12 @@ conferences:
     startdate: 2018-11-13T00:00:00.000Z
     uid: 27
     uri: 'https://www.bigdataspain.org/'
+  - enddate: 2018-11-29
+    location: Vilnius
+    name: Big Data Conference
+    roughdate: 27-29 November 2018
+    startdate: 2018-11-27
+    uid: 34
+    uri: 'https://www.bigdataconference.lt/'
+    
+    
