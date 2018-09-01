@@ -48,5 +48,12 @@ conferences:
     startdate: 2018-11-27
     uid: 34
     uri: 'https://www.bigdataconference.lt/'
+  - enddate: 2018-11-29
+    location: London
+    name: Women in Data UK
+    roughdate: 29 November 2018
+    startdate: 2018-11-29
+    uid: 35
+    uri: 'http://womenindata.co.uk'
     
     
