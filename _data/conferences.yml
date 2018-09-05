@@ -27,6 +27,12 @@ conferences:
     startdate: '2018-10-08'
     uid: 33
     uri: 'https://conferences.oreilly.com/artificial-intelligence/ai-eu'
+  - enddate: '2018-10-11'
+    name: AI Experience London
+    roughdate: 11 October 2018
+    startdate: '2018-10-11'
+    uid: 36
+    uri: 'https://www.datarobot.com/ai-experience/london-2018/'
   - enddate: '2018-11-14'
     location: London
     name: Big Data LDN
@@ -55,5 +61,3 @@ conferences:
     startdate: 2018-11-29
     uid: 35
     uri: 'http://womenindata.co.uk'
-    
-    
