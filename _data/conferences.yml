@@ -54,3 +54,9 @@ conferences:
     startdate: 2018-11-29
     uid: 35
     uri: 'http://womenindata.co.uk'
+  - enddate: 2019-02-27
+    name: Big Data Technology Warsaw Summit
+    roughdate: 27 February 2018
+    startdate: 2018-02-27
+    uid: 38
+    uri: 'http://getindata.com/become-speaker-big-data-technology-warsaw-2019/'
