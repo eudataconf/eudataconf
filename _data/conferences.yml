@@ -47,3 +47,9 @@ conferences:
     startdate: 2018-02-27
     uid: 38
     uri: 'http://getindata.com/become-speaker-big-data-technology-warsaw-2019/'
+  - name: Kafka Summit London
+    roughdate: 13-14 May 2019
+    startdate: 2019-05-13
+    enddate: 2019-05-14
+    uid: 40
+    uri: 'https://kafka-summit.org/events/kafka-summit-london-2019/'
