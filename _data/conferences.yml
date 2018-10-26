@@ -1,24 +1,4 @@
 conferences:
-  - enddate: 2018-10-04T00:00:00.000Z
-    location: London
-    name: Spark+AI Summit Europe
-    roughdate: 2-4 October 2018
-    startdate: 2018-10-02T00:00:00.000Z
-    uid: 29
-    uri: 'https://databricks.com/sparkaisummit/eu'
-  - enddate: '2018-10-11'
-    location: London
-    name: AI Conference
-    roughdate: 8-11 October 2018
-    startdate: '2018-10-08'
-    uid: 33
-    uri: 'https://conferences.oreilly.com/artificial-intelligence/ai-eu'
-  - enddate: '2018-10-11'
-    name: AI Experience London
-    roughdate: 11 October 2018
-    startdate: '2018-10-11'
-    uid: 36
-    uri: 'https://www.datarobot.com/ai-experience/london-2018/'
   - enddate: '2018-10-31'
     location: Budapest
     roughdate: 29-31 October 2018
@@ -40,6 +20,13 @@ conferences:
     startdate: 2018-11-13T00:00:00.000Z
     uid: 27
     uri: 'https://www.bigdataspain.org/'
+  - name: Big Data Analytics
+    location: London
+    roughdate: 27 November 2018
+    startdate: 2018-11-27
+    enddate: 2018-11-27
+    uid: 39
+    uri: 'https://whitehallmedia.co.uk/bdanov2018/'
   - enddate: 2018-11-29
     location: Vilnius
     name: Big Data Conference
