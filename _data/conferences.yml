@@ -43,8 +43,8 @@ conferences:
     uri: 'http://womenindata.co.uk'
   - enddate: 2019-02-27
     name: Big Data Technology Warsaw Summit
-    roughdate: 27 February 2018
-    startdate: 2018-02-27
+    roughdate: 27 February 2019
+    startdate: 2019-02-27
     uid: 38
     uri: 'http://getindata.com/become-speaker-big-data-technology-warsaw-2019/'
   - name: Kafka Summit London
@@ -53,3 +53,9 @@ conferences:
     enddate: 2019-05-14
     uid: 40
     uri: 'https://kafka-summit.org/events/kafka-summit-london-2019/'
+  - name: Berlin Buzzwords
+    roughdate: 16-18 June 2019
+    startdate: 2019-06-16
+    enddate: 2019-06-18
+    uid: 41
+    uri: 'https://berlinbuzzwords.de'
