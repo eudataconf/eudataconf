@@ -1,25 +1,4 @@
 conferences:
-  - enddate: '2018-10-31'
-    location: Budapest
-    roughdate: 29-31 October 2018
-    startdate: '2018-10-29'
-    uid: 37
-    uri: 'https://crunchconf.com/'
-    name: Crunch Data Engineering and Analytics Conference
-  - enddate: '2018-11-14'
-    location: London
-    name: Big Data LDN
-    roughdate: 13-14 November 2018
-    startdate: '2018-11-13'
-    uid: 31
-    uri: 'https://bigdataldn.com/'
-  - enddate: 2018-11-15T00:00:00.000Z
-    location: Madrid
-    name: Big Data Spain
-    roughdate: 13-15 November 2018
-    startdate: 2018-11-13T00:00:00.000Z
-    uid: 27
-    uri: 'https://www.bigdataspain.org/'
   - name: Big Data Analytics
     location: London
     roughdate: 27 November 2018
