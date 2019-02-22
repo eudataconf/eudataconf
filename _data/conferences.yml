@@ -18,3 +18,21 @@ conferences:
     uid: 41
     uri: 'https://berlinbuzzwords.de'
     lowprice: £100
+  - name: Big Data Madrid
+    roughdate: 13-14 Nov 2019
+    startdate:
+    enddate:
+    uid: 42
+    uri: 'https://www.bigdataspain.org/2018/schedule'
+  - name: Strata Data Conference
+    roughdate: 1-2 May 2019
+    startdate: 2019-05-01
+    enddate: 2019-05-02
+    uid: 43
+    uri: 'https://conferences.oreilly.com/strata/strata-eu/schedule/2019-05-01'
+  - name: Big Data LDN (London)
+    roughdate: 13-14 Nov 2019
+    startdate: 2019-11-13
+    enddate: 2019-11-14
+    uid: 44
+    uri: 'https://bigdataldn.com'
