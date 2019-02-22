@@ -1,11 +1,4 @@
 conferences:
-  - name: Big Data Analytics
-    location: London
-    roughdate: 27 November 2018
-    startdate: 2018-11-27
-    enddate: 2018-11-27
-    uid: 39
-    uri: 'https://whitehallmedia.co.uk/bdanov2018/'
   - enddate: 2018-11-29
     location: Vilnius
     name: Big Data Conference
