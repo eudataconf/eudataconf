@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alice's Awesome European Big Data Conferences</title>
-    <description>All of the European Big Data conferences that Alice is excited about</description>
+    <title>Tim's Awesome European Big Data Conferences</title>
+    <description>All of the European Big Data conferences that Tim is excited about</description>
     <link>{{ site.url }}</link>
     {% assign sorted = (site.data.conferences.conferences | sort: 'uid') | reverse %}
     {% for conference in sorted %}
