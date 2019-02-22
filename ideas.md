@@ -10,3 +10,6 @@ something possibly on either side of details
 8) May be link to skyscanner for getting flights
 9) May be link to the likes of booking.com or hotels.com, airbnb.com for possible hotel prices, or advise of what it could potentially cost
 10) Advise of which conferences are during school holidays for the family people.
+
+amendment to index from There's a lot of cool European big data conferences.  Here's some of the most exciting ones.
+to - There's a lot of cool European big data conferences happening in 2019.  Here's some of the most exciting ones you should considering attending.
