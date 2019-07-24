@@ -1,27 +1,14 @@
 conferences:
-  - enddate: 2019-02-27
-    name: Big Data Technology Warsaw Summit
-    roughdate: 27 February 2019
-    startdate: 2019-02-27
-    uid: 38
-    uri: 'http://getindata.com/become-speaker-big-data-technology-warsaw-2019/'
-  - name: Kafka Summit London
-    roughdate: 13-14 May 2019
-    startdate: 2019-05-13
-    enddate: 2019-05-14
-    uid: 40
-    uri: 'https://kafka-summit.org/events/kafka-summit-london-2019/'
-  - name: Berlin Buzzwords
-    roughdate: 16-18 June 2019
-    startdate: 2019-06-16
-    enddate: 2019-06-18
-    uid: 41
-    uri: 'https://berlinbuzzwords.de'
-    lowprice: £100
+  - name: Lambda World Cadiz
+    roughdate: 17-18 Oct 2019
+    startdate: 2019-10-17
+    enddate: 2019-10-18
+    uid: 45
+    uri: 'http://cadiz.lambda.world/'
   - name: Big Data Madrid
     roughdate: 13-14 Nov 2019
-    startdate:
-    enddate:
+    startdate: 2019-11-13
+    enddate: 2019-11-14
     uid: 42
     uri: 'https://www.bigdataspain.org/2018/schedule'
   - name: Strata Data Conference
